@@ -1,5 +1,7 @@
 # vue-webpack-custom-boilerplate
 
+[![CircleCI](https://circleci.com/gh/Tarektouati/vue-template.svg?style=svg)](https://circleci.com/gh/Tarektouati/vue-template)
+
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
 
 > This template is Vue 2.0 compatible only.
