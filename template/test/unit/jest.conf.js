@@ -25,7 +25,7 @@ module.exports = {
     'src/**/*.{js,vue}',
     '!src/main.js',
     {{#router}}
-    '!src/router/index.js',
+    '!src/router.js',
     {{/router}}
     '!**/node_modules/**'
   ]
